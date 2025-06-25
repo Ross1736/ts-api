@@ -55,7 +55,6 @@ API_KEY=123123
 PASSWORD_SWAGGER=123213
 ```
 
-
 4. Generar el cliente Prisma:
 
 ```bash
